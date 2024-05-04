@@ -1,3 +1,5 @@
+## Chaotic Memristor System Syncronization
+
 ### Functionalities
 
 'The synchronization of identical Memristors systems via Lyapunov direct method' is a Matlab application that implements the results included in the research article  'Shko A. TAHIR. The Synchronization of Identical Memristors Systems Via Lyapunov Direct Method. Applied and Computational Mathematics' published in Nov 6 2013.
